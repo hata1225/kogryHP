@@ -74,6 +74,8 @@ main {
 }
 
 .main-visual-text {
+    width: 50vw;
+    min-width: 520px;
     padding: 30px 20px;
     background-color: rgba(0, 0, 0, 0.6);
     color: #f5f5f5;
@@ -158,5 +160,10 @@ small {
 
     .profile {
         width: 100vw;
+    }
+
+    .main-visual-text {
+        width: 100%;
+        min-width: 0;
     }
 }
