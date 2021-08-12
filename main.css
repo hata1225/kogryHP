@@ -116,6 +116,7 @@ main {
 
 .profile {
     width: 50vw;
+    min-width: 500px;
     background-color: #ffffff;
 }
 
