@@ -1,3 +1,3 @@
 # kogryHP
 ---
-url: 
+url: https://hata1225.github.io/kogryHP/
