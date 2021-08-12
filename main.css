@@ -161,6 +161,7 @@ small {
 
     .profile {
         width: 100vw;
+        min-width: 0;
     }
 
     .main-visual-text {
